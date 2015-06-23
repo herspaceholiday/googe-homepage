@@ -1,1 +1,1 @@
-$ git clone https://github.com/theodinproject/curriculum.git
+$ git clone https://github.com/herspaceholiday/googe-homepage.git
